@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devtronz
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... coding website 
 - 🌱 I’m currently learning ...html, python 
 - 💞️ I’m looking to collaborate on ... website 
 - ⚡ Fun fact: ... star don't smile 
